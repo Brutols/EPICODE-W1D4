@@ -1,0 +1,185 @@
+img {
+  object-fit: cover;
+}
+
+p a h1 h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #e8edee;
+  margin: 0;
+}
+
+.logo {
+  background-color: #092546;
+}
+
+#top img {
+  width: 10%;
+  padding-left: 10px;
+  padding-block: 5px;
+}
+
+.nav {
+  background-color: #103a6a;
+}
+
+.nav a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+#navbar{
+    position: sticky;
+    top: 0;
+}
+
+#navbar ul {
+  margin: 0;
+  padding-inline: 10px;
+  padding-block: 5px;
+}
+
+#navbar li {
+  display: inline-block;
+  padding-inline: 10px;
+}
+
+#page {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+}
+
+#orange {
+  background-color: #ffa41c;
+}
+
+#orange p {
+  color: rgb(255, 255, 255);
+  padding-block: 3px;
+}
+
+#holiday {
+  background-image: url(./bg-image.png);
+  padding-block: 20px;
+}
+
+.titles {
+  color: rgb(255, 255, 255);
+}
+
+#container {
+  background-color: rgb(255, 255, 255);
+  margin-block: 20px;
+}
+
+.album {
+  width: 20%;
+  aspect-ratio: 1 / 1.2;
+  border-radius: 10px;
+  margin-inline: 10px;
+  margin-bottom: 10px;
+  -webkit-box-shadow: 15px 12px 30px 4px rgba(0,0,0,0.3); 
+box-shadow: 15px 12px 30px 4px rgba(0,0,0,0.3);
+}
+
+.cta a {
+  text-decoration: none;
+  color: #017add;
+  font-weight: bold;
+  padding-inline: 10px;
+}
+
+#cta1 p {
+  text-align: left;
+  margin: 0;
+  padding: 10px;
+}
+
+.cover{
+    width: 100%;
+}
+
+.ctacent p{
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+#totop{
+    text-align: center;
+    padding: 10px;
+}
+
+#bottom{
+    text-align: center;
+}
+
+#bottom img{
+    width: 15%;
+    margin-block: 50px;
+}
+
+.extra{
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    width: 22%;
+    margin-bottom: 20px;
+    margin-inline: 10px;
+}
+
+.extra h3{
+    margin: 0;
+    margin-left: 15px;
+    margin-block: 10px;
+
+}
+
+.extra img{
+    width: 40%;
+    aspect-ratio: 1 / 1;
+    margin-inline: 10px;
+}
+
+.extra a{
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    color: #017add;
+    margin-left: 15px;
+    margin-block: 10px;
+}
+
+.extra span{
+    display: inline-block;
+    width: 40%;
+    margin-inline: 10px;
+    margin-bottom: 10px
+}
+
+#newright{
+    position: absolute;
+    width: 13%;
+    margin: 0;
+    top: 76%;
+    left: 35%;
+}
+
+#newleft1{
+    position: absolute;
+    width: 13%;
+    margin: 0;
+    top: 35%;
+    left: 35%;
+}
+
+#newleft2{
+    position: absolute;
+    width: 13%;
+    margin: 0;
+    top: 35%;
+    left: 35%;
+}
